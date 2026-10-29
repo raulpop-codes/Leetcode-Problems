@@ -1,8 +1,8 @@
-## Complexity
+ ## Result
 
-- Time: O(max(n, m))
-- Space: O(1) auxiliary
-- 
+- Runtime: 2 ms, beats 45.10%
+- Memory: 76.90 MB, beats 96.02%
+
 # 2. Add Two Numbers
 
 You are given two non-empty linked lists representing two non-negative
@@ -37,7 +37,7 @@ Output: [8,9,9,9,0,0,0,1]
 - `0 <= Node.val <= 9`
 - It is guaranteed that the list represents a number that does not have leading zeros.
 
-## Result
+## Complexity
 
-- Runtime: 2 ms, beats 45.10%
-- Memory: 76.90 MB, beats 96.02%
+- Time: O(max(n, m))
+- Space: O(1) auxiliary
