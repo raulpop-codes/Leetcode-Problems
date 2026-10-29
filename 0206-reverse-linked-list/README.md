@@ -1,7 +1,7 @@
 ## Result
 
 - Runtime: 0 ms, beats 100.00%
-- Memory: 13.38 MB, beats 66.07%
+- Memory: 13.21 MB, beats 89.05%
   
 # 206. Reverse Linked List
 
