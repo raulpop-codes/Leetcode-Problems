@@ -1,3 +1,8 @@
+## Result
+
+- Runtime: 0 ms, beats 100.00%
+- Memory: 13.38 MB, beats 66.07%
+  
 # 206. Reverse Linked List
 
 Given the `head` of a singly linked list, reverse the list, and return the
@@ -29,8 +34,3 @@ Output: []
 
 - Time: O(n)
 - Space: O(1) auxiliary
-
-## Result
-
-- Runtime: 0 ms, beats 100.00%
-- Memory: 13.38 MB, beats 66.07%
