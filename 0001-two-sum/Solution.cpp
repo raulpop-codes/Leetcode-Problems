@@ -1,0 +1,18 @@
+#include <vector>
+#include <unordered_map>
+using namespace std;
+
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        int diff = 0;
+        unordered_map<int, int> hashmap;
+        for (int i = 0; i < nums.size(); i++) {
+            diff = target - nums[i];
+            if (hashmap.find(diff) != hashmap.end())
+                return {hashmap[diff], i};
+            hashmap[nums[i]] = i;
+        }
+        return {};
+    }
+};
