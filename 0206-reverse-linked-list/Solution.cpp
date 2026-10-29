@@ -20,6 +20,9 @@ public:
             pprev = pcurrent;
             pcurrent = pnext;
         }
+        delete pcurrent;
+        delete pnext;
+        
         return pprev;
     }
 };
