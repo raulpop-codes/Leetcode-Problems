@@ -1,3 +1,8 @@
+## Complexity
+
+- Time: O(max(n, m))
+- Space: O(1) auxiliary
+- 
 # 2. Add Two Numbers
 
 You are given two non-empty linked lists representing two non-negative
@@ -31,11 +36,6 @@ Output: [8,9,9,9,0,0,0,1]
 - The number of nodes in each linked list is in the range `[1, 100]`.
 - `0 <= Node.val <= 9`
 - It is guaranteed that the list represents a number that does not have leading zeros.
-
-## Complexity
-
-- Time: O(max(n, m))
-- Space: O(1) auxiliary
 
 ## Result
 
