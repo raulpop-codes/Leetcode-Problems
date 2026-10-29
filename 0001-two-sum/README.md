@@ -18,7 +18,7 @@ You can return the answer in any order.
 Input: nums = [2,7,11,15], target = 9
 Output: [0,1]
 Explanation: The sum of nums[0] and nums[1] is 2 + 7 = 9, which equals the target.
- Therefore, the indices [0, 1] are returned.
+Therefore, the indices [0, 1] are returned.
 ```
 
 **Example 2:**
