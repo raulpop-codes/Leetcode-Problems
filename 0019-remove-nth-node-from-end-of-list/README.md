@@ -1,3 +1,8 @@
+## Complexity
+
+- Time: O(sz)
+- Space: O(1) auxiliary
+- 
 # 19. Remove Nth Node From End of List
 
 Given the `head` of a linked list, remove the `n`th node from the end of
@@ -28,11 +33,6 @@ Output: [1]
 - `1 <= n <= sz`
 
 **Follow up:** Could you do this in one pass?
-
-## Complexity
-
-- Time: O(sz)
-- Space: O(1) auxiliary
 
 ## Result
 
