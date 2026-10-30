@@ -1,5 +1,7 @@
-**Runtime:** 8 ms, beats 81.36%
-**Memory:** 11.88 MB, beats 53.81%
+## Result
+
+- Runtime: 8 ms, beats 81.36%
+- Memory: 11.88 MB, beats 53.81%
 
 # 141. Linked List Cycle
 
