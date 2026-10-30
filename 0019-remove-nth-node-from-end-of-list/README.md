@@ -2,7 +2,7 @@
 
 - Runtime: 0 ms, beats 100.00%
 - Memory: 14.82 MB, beats 86.40%
-- 
+
 # 19. Remove Nth Node From End of List
 
 Given the `head` of a linked list, remove the `n`th node from the end of
