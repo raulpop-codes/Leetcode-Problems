@@ -1,7 +1,7 @@
-## Complexity
+## Result
 
-- Time: O(sz)
-- Space: O(1) auxiliary
+- Runtime: 0 ms, beats 100.00%
+- Memory: 14.82 MB, beats 86.40%
 - 
 # 19. Remove Nth Node From End of List
 
@@ -31,10 +31,8 @@ Output: [1]
 - `1 <= sz <= 30`
 - `0 <= Node.val <= 100`
 - `1 <= n <= sz`
+- 
+  ## Complexity
 
-**Follow up:** Could you do this in one pass?
-
-## Result
-
-- Runtime: 0 ms, beats 100.00%
-- Memory: 14.82 MB, beats 86.40%
+- Time: O(sz)
+- Space: O(1) auxiliary
