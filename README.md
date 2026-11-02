@@ -9,5 +9,6 @@
 |  23 | [Merge k Sorted Lists](0023-merge-k-sorted-lists) | Hard |
 | 141 | [Linked List Cycle](0141-linked-list-cycle) | Easy |
 | 206 | [Reverse Linked List](0206-reverse-linked-list) | Easy |
+| 217 | [Contains Duplicate](0217-contains-duplicate) | Easy |
 | 242 | [Valid Anagram](0242-valid-anagram) | Easy |
 | 445 | [Add Two Numbers II](0445-add-two-numbers-ii) | Medium |
