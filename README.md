@@ -14,4 +14,5 @@
 | 217 | [Contains Duplicate](0217-contains-duplicate) | Easy |
 | 238 | [Product of Array Except Self](0238-product-of-array-except-self) | Medium |
 | 242 | [Valid Anagram](0242-valid-anagram) | Easy |
+| 347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | Medium |
 | 445 | [Add Two Numbers II](0445-add-two-numbers-ii) | Medium |
