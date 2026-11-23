@@ -16,3 +16,4 @@
 | 242 | [Valid Anagram](0242-valid-anagram) | Easy |
 | 347 | [Top K Frequent Elements](0347-top-k-frequent-elements) | Medium |
 | 445 | [Add Two Numbers II](0445-add-two-numbers-ii) | Medium |
+| 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | Medium |
