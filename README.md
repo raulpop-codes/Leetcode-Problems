@@ -11,6 +11,8 @@
 | 141 | [Linked List Cycle](0141-linked-list-cycle) | Easy |
 | 142 | [Linked List Cycle II](0142-linked-list-cycle-ii) | Medium |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Medium |
+| 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium |
 | 206 | [Reverse Linked List](0206-reverse-linked-list) | Easy |
 | 217 | [Contains Duplicate](0217-contains-duplicate) | Easy |
 | 238 | [Product of Array Except Self](0238-product-of-array-except-self) | Medium |
